@@ -21,3 +21,9 @@ remote repository. FInally we have the Fork, this is the same as clone, but it's
 stored locally?
    You can easily check what are the changes that have been made, and you can 
 merge it when you think you're ready.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+   Oh my God, this is so hard to think. Once you know Git and GitHub, you don't 
+even want to think about how would you do all that "magic" without those tools. 
+You would find yourself sending files to your partner through the skype, or who 
+knows... What you should know is that we all should thanks Linux Torvalds. 
