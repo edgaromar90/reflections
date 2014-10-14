@@ -16,3 +16,8 @@ use one instead of another?
 operates on branches, because they copy a branch, but they also do it from a 
 remote repository. FInally we have the Fork, this is the same as clone, but it's
  a built-in tool that offers GitHub to do a clone on the website.
+
+4. What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+   You can easily check what are the changes that have been made, and you can 
+merge it when you think you're ready.
