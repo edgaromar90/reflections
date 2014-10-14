@@ -1,0 +1,42 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+   When you do it, you're saying GIT, this is entire directory(folder) is my 
+workplace(Git creade a hidden directory ".git/"), so i want you to track all my 
+files, this way i can come back later and see the history of my files.
+
+2. How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+   The Staging area is the place between the working directory and the 
+repository. It's great having a staging area because when i complete my work 
+with one file i can use "git add" and add that file to the staging area, and 
+compare it with the older version on the repository without making a commit, 
+also i can wait to modify, or to complete, my logic change and after, i make my
+commit.
+
+3. How can you use the staging area to make sure you have one commit per logical
+ change?
+   I can add all my modifications to the staging area before making a commit, 
+and after im done with the logical idea, or the logical change, i can make my 
+commit, and it will add all my files in the staging area to the repository.
+
+4. What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+   When you want to try new things, but you've your project functional and you 
+want to mess it up, so you create a new branch and start working on it.
+
+5. How do the diagrams help you visualize the branch structure?
+   Helped me a lot, since i was trying to visualize things in my mind, it's 
+great idea that you guys made those diagrams, it really made it easier.
+
+6. What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+   Merging two branches will combine all the commits from both branches, and 
+will be organized by date. The diagrams make it easier, because they show a new 
+commit that unified the two branches, and allows us to reach commits from the 
+two branches.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges
+ manually?
+   Automatic merging is great because they do all the work for us in seconds, 
+but they don't know what to do when they find the same line modified. When you 
+do it manually, however, you would have to do it file by file, and compair files
+ one by one (tough work), and you can make mistakes easily.

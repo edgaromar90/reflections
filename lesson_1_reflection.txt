@@ -1,0 +1,48 @@
+1. How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+   It helped a lot, with this command i could see the difference between the two
+ version like if i would label it change.
+
+2. How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+   This is a Dream come true... with that access i could see everything I've 
+done before making the change that messed up the entire project, and i could 
+easily fixed.
+
+3. What do you think are the pros and cons of manually choosing when to create a
+ commit, like you do in Git, vs having versions automatically saved, like Google
+ docs does?
+   Well, looking at how Git does it, you have the choice of make your commit 
+when you think you're ready to do it, when you have finish your idea of what 
+you're modifying right now. But also you could forget about it, and leave the 
+project without commit for a long time, which is really bad. On the other hand, 
+you have automatics commit with Google Docs, this is great because you can 
+forget about it, but it's also bad, because maybe you haven't change anything 
+significant yet and you already have made to commits, the when you come back to 
+see your commit history you will be lost.
+
+4. Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each file 
+separately?
+   Well, usually when you're working on Google Docs you only need to make the 
+change on a single file, while when you're programming you may want to make a 
+change in two or three, or even more, files to fix a bug, and you want all those
+ files in the same commit, since you want to make a single commit per logical 
+change.
+
+5. How can you use the commands git log and git diff to view the history of 
+files?
+   With the "git log" command you can see all the commits that have been made, 
+and you can choose what commits you want to compare, and using "git diff" you 
+can see the difference that were made in that commit.
+
+6. How might using version control make you more confident to make changes that 
+could break something?
+   This make me fill a lot more coinfident, now i can make all the changes i 
+want and i just have to look at the previous commit, compare them, and fix my 
+bugs.
+
+7. Now that you have your workspace set up, what do you want to try using Git 
+for?
+   Oh, i can't wait to use it in my own project, and start making great and 
+complex projects.
