@@ -22,8 +22,17 @@ stored locally?
    You can easily check what are the changes that have been made, and you can 
 merge it when you think you're ready.
 
-5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+5. How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
    Oh my God, this is so hard to think. Once you know Git and GitHub, you don't 
 even want to think about how would you do all that "magic" without those tools. 
 You would find yourself sending files to your partner through the skype, or who 
 knows... What you should know is that we all should thanks Linux Torvalds. 
+
+6. When would you want to make changes in a separate branch rather than directly
+ in master? What benefits does each approach have?
+   When you want to try something new, or when you're working with somebody else
+you can split ideas, and work separetely and then join the two branches, if 
+something went wrong you didn't messed up your master branch. It's also good to 
+make changes directly in the master branch when you want to make a small change
+and you're sure this won't fail later.
